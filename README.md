@@ -1,1 +1,2 @@
 # Web-Portfolio
+For this website, I want to create a career portfolio that can be showed to employers and highlights my skills in the fashion industry specifically in marketing and public relations. I am going to inlcude images from different projects I have worked on as well as samples of writing. I want employers to be able to use this portfolio to encourage them to hire me fora role in the fashion industry, and I am going for a professional yet fun and trendy look for this project.
